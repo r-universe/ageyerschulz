@@ -2,6 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "xegaBNF"]
+	path = xegaBNF
+	url = https://github.com/ageyerschulz/xegabnf
+[submodule "xegaDfGene"]
+	path = xegaDfGene
+	url = https://github.com/ageyerschulz/xegadfgene
+[submodule "xegaGaGene"]
+	path = xegaGaGene
+	url = https://github.com/ageyerschulz/xegagagene
+[submodule "xegaPermGene"]
+	path = xegaPermGene
+	url = https://github.com/ageyerschulz/xegapermgene
 [submodule "xegaSelectGene"]
 	path = xegaSelectGene
 	url = https://github.com/ageyerschulz/xegaselectgene
