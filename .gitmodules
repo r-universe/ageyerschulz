@@ -5,6 +5,9 @@
 [submodule "xegaBNF"]
 	path = xegaBNF
 	url = https://github.com/ageyerschulz/xegabnf
+[submodule "xegaDerivationTrees"]
+	path = xegaDerivationTrees
+	url = https://github.com/ageyerschulz/xegaderivationtrees
 [submodule "xegaDfGene"]
 	path = xegaDfGene
 	url = https://github.com/ageyerschulz/xegadfgene
