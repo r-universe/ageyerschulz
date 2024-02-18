@@ -14,6 +14,9 @@
 [submodule "xegaGaGene"]
 	path = xegaGaGene
 	url = https://github.com/ageyerschulz/xegagagene
+[submodule "xegaGeGene"]
+	path = xegaGeGene
+	url = https://github.com/ageyerschulz/xegagegene
 [submodule "xegaGpGene"]
 	path = xegaGpGene
 	url = https://github.com/ageyerschulz/xegagpgene
